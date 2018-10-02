@@ -10,7 +10,7 @@
 * 1.Implementar un sistema de reserva de tiquetes de un crucero, que tiene 3 alternativas de ubicación en los camarotes del buque: Clase Económica, 
 *   clase Turística y clase Premium. Cada clase tiene el mismo número de camarotes disponibles: 50.
 *	Implemente una clase llamada Reserva que tiene los atributos: un string para el nombre de quien reserva, un int para el número de documento de identidad, 
-*   un char para la cantidad de equipaje (cuántos maletines) y un bool para marcar el camarote en cuestión como reservado.
+*   un int para la cantidad de equipaje (cuántos maletines) y un bool para marcar el camarote en cuestión como reservado.
 *	Usando la clase Reserva usted debe implementar un sistema de reserva de tiquetes para el crucero. Por las restricciones de memoria del sistema usted tiene
 *   como requerimiento el uso de apuntadores y de los operadores NEW y DELETE para el manejo dinámico de memoria del sistema.
 *	El programa iniciará dando la bienvenida y ofrecerá la opción de reservar un camarote en el crucero y la opción de revisar la lista de reservas.
