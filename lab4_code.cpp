@@ -22,4 +22,10 @@
 *   administrador, por seguridad), si el password es correcto entonces se debe mostrar en pantalla los camarotes reservados por cada clase viajera y el 
 *   nombre de quien lo ha reservado y la cantidad de camarotes aún disponibles.
 *
+* 2. Implemente tres clases llamadas Mamifero, Alado, Acuatico. Para cada una de las clases debe definir por lo menos 4 atributos que
+*    describan las caracteristicas mas sobresalientes. Ademas debe agregar por lo menos 4 metodos redefinibles que permitan interactuar con
+*    y modificar esos atributos. Luego implemente las clases Murcielago, Ornitorrinco y Manatí que heredan de las clases construidas anteriormente.
+*    Redefina los metodos en cada una de estas clases, recuerde que estas clases derivadas pueden heredar de varias clases al tiempo. En
+*    las clases derivadas implemente los constructores de forma que a traves de ellos pueda inicializar también los constructores de las
+*    clases bases (¡Si no se ha explicado, consulte como hacerlo!).
 */
