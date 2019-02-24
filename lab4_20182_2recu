@@ -1,0 +1,20 @@
+/* Practica de recuperación */
+/* Esta practica es válida como recuperación de la práctica 4 del semestre 2018_2 */
+/* Si usted decide realizar esta práctica entoces su nota final en la práctica 4 */
+/* será la que obtenga en esta misma práctica de recuperación */
+
+1. Diseñe e implemente una clase abstracta llamada Animal, dicha clase debe implementar
+  por lo menos 3 metodos relacionados con las funciones o caracteristicas de los animales.
+  (Repirar, desplazarse, almentarse, etc...).
+  
+  Luego implemente 4 clases: Mamifero, Ave, Anfibio y Reptil. Estas clases deben heredar de
+  la clase Animal y deben de reimplementar (redefinir) cada una a su manera los metodos heredados
+  de la clase Animal y deben agregar metodos adicionales de acuerdo a la naturaleza en particular,
+  por ejemplo las aves deberian tener un método volar.
+  
+  Finalmente implemente una clase Ornitorrinco que debe heredar de las clases Ave, Anfibio y Mamifero.
+  Implementar una clase "Animal_X" que hereda de las clases Ave y Réptil.
+  
+  Diseñe una aplicación que permita implementar objetos de las clases Ornitorrinco y "Animal_X"
+  ¡En caso de que haya problemas a la hora de implementar dichos objetos entonces consulte como
+  solucionar el problema "Diamante" de la herencia en C++!
